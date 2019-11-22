@@ -1,3 +1,7 @@
+/** 
+ * @author Rayhan Kasli
+ * @description service handle http call with server
+ */
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ResumeBuilder } from './resume-builder.model';
@@ -25,6 +29,11 @@ export class ResumeBuilderService {
     return this.httpClient.post<ResumeBuilder>(`${this.serviceUrl + 'resumeBuilder'}`, resumeBuilder);
   }
 
+  /**
+   * Gets resume by id
+   * @param id contain id
+   * @returns resume by id 
+   */
   public getResumeById(id: string): Observable<ResumeBuilder> {
     return this.httpClient.get<ResumeBuilder>(this.serviceUrl + 'resumeBuilder/' + id);
   }
