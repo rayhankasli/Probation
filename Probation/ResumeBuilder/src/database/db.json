@@ -1,0 +1,54 @@
+{
+  "resumeBuilder": [
+    {
+      "id": 1,
+      "name": "sdsdsd",
+      "gender": "male",
+      "address": "sdsds",
+      "contactno": "9799797979",
+      "dateOfBirth": "2019-11-12",
+      "nationality": "UK",
+      "education": "PG",
+      "skills": "data",
+      "yearsOfExperince": 2,
+      "resume": "C:\\fakepath\\1Rivet's Angular Community Quiz _ Print - Quizizz.pdf"
+    },
+    {
+      "id": 2,
+      "name": "sdsdsd",
+      "gender": "male",
+      "address": "sdsds",
+      "contactno": "9799797979",
+      "dateOfBirth": "2019-11-12",
+      "nationality": "UK",
+      "education": "PG",
+      "skills": "data",
+      "yearsOfExperince": 2.5,
+      "resume": "C:\\fakepath\\1Rivet's Angular Community Quiz _ Print - Quizizz.pdf"
+    },
+    {
+      "id": 3,
+      "name": "sdbhjg",
+      "gender": "male",
+      "address": "fdfd",
+      "contactno": "9725554454",
+      "dateOfBirth": "2019-11-08",
+      "nationality": "India",
+      "education": "UG",
+      "skills": "data",
+      "yearsOfExperince": 1.5,
+      "resume": "C:\\fakepath\\02350100037869.pdf"
+    }
+  ],
+  "skills": [
+    {
+      "email": "UI"
+    },
+    {
+      "email": "Java"
+    },
+    {
+      "email": "Angular"
+    }
+  ]
+}
